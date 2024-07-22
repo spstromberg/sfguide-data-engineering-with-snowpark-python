@@ -1,7 +1,7 @@
 # Can override the default connection name with an environment variable as follows
 #export SNOWFLAKE_DEFAULT_CONNECTION_NAME="default"
 
-[check]
+[default]
 account = "UXB53752"
 user = "sstromberg"
 password = "i2o7iCL7VADD"
